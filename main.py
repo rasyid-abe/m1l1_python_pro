@@ -5,7 +5,8 @@ meme_dict = {
     "ROFL": "Tanggapan terhadap lelucon",
     "SHEESH": "Sedikit ketidaksetujuan",
     "CREEP": "Menakutkan, tidak menyenangkan",
-    "AGGRO": "Untuk menjadi agresif/marah",   
+    "AGGRO": "Untuk menjadi agresif/marah",
+    "SMILE": "Tersenyum"
 }
 
 for i in range(len(meme_dict)):
